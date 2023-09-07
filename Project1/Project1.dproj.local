@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/27 15:54:15.000.410,=C:\Users\Heverton\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/07 18:04:44.978,=C:\Users\Heverton\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/07 18:04:56.394,C:\Users\Heverton\Documents\Embarcadero\Studio\Projects\Index.pas=C:\Users\Heverton\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/07 18:04:56.394,C:\Users\Heverton\Documents\Embarcadero\Studio\Projects\Index.dfm=C:\Users\Heverton\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/09/07 18:05:29.150,C:\Delphi\AcadCod\Index.dfm=C:\Users\Heverton\Documents\Embarcadero\Studio\Projects\Index.dfm</Transaction>
+    <Transaction>2023/09/07 18:05:29.150,C:\Delphi\AcadCod\Index.pas=C:\Users\Heverton\Documents\Embarcadero\Studio\Projects\Index.pas</Transaction>
+    <Transaction>2023/09/07 18:05:47.520,C:\Delphi\AcadCod\Project1.dproj=C:\Users\Heverton\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
